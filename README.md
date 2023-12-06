@@ -1,2 +1,2 @@
 # medicalstore
-cdac miniproject
+this is cdac miniproject of medical store
